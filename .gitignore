@@ -1,0 +1,43 @@
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+### Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+myvenv/
+
+### Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+### Packaging / build
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+### Logs
+*.log
+
+### OS / Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+.vscode/
+
